@@ -1,0 +1,6 @@
+{
+  "name": "UNIMAR",
+  "description": "Aplicación oficial de admisiones e información de la Universidad de Margarita (UNIMAR). Consulta el pensum de estudios, explora la galería de fotos y realiza tu inscripción al curso introductorio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
